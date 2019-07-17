@@ -1,0 +1,9 @@
+import getdatastore
+import gettemplates
+import gethosts
+import getfolders
+import getvms
+import clonevm
+import createvm
+import getportgroup
+import clone_win
